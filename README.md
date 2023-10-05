@@ -1,5 +1,5 @@
 # Power BI Dashboard for Data Professionals
-![]()
+![](dashboard.jpg)
 ## Overview
 This documentation provides a detailed account of the data cleaning and visualization process for the project, starting from data preparation to the creation of visualizations. The project aimed to analyze survey data collected from data professionals and gain insights into various key performance indicators (KPIs).
 
